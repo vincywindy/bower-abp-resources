@@ -26,8 +26,8 @@
             },
             confirm: {
                 icon: 'warning',
-                title: 'Are you sure?',
-                buttons: ['Cancel', 'Yes']
+                title: '是否确定?',
+                buttons: ['取消', '是']
             }
         }
     };
